@@ -1,0 +1,7 @@
+ISBN Autor Titulo Idioma Publicacion
+1020, Ignacio Villa, La medida de las cosas, Spanish, 2015
+2132, Rosa Montero, Cuentos eternos, Spanish, 2017
+2311, Larson, Calculus I, English, 2012
+9834, Loomis, Dibujo I, Spanish, 2012
+1456, Apostol, Calculus, Spanish, 2017
+2341, Ha-Joon-Chang, Economa, Spanish, 2013
